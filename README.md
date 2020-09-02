@@ -6,7 +6,7 @@ topup
 pay
 ```
 
-#How to Run
+# How to Run
  `mvn install`  -  build the maven roject root folder
  ` \bin\run.bat` execute this BAT file and CLI would start
 
