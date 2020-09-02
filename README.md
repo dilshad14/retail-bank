@@ -1,8 +1,14 @@
 ## Simple Retail Banking Application
 simulation of commands like
+```
 login
 topup
 pay
+```
+
+#How to Run
+# `mvn install`  -  build the maven roject root folder
+# ` \bin\run.bat` execute this BAT file and CLI would start
 
 Simulation sample Result:
 | Action               | Result Balances                                        |
