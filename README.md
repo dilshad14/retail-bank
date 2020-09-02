@@ -14,7 +14,7 @@ Simulation sample Result:
 | Bob tops up 100      | (220, 90)                                              |
 
 Commands
-
+```
 > login Alice
 Hello, Alice!
 Your balance is 0.
@@ -60,3 +60,4 @@ Owing 10 to Alice.
 > topup 100
 Transferred 10 to Alice.
 Your balance is 90.
+```
